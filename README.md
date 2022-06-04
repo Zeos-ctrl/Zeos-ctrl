@@ -1,6 +1,6 @@
-- Hi, I’m @Zeos-ctrl
-- Avid rust learner and c++ enjoyer
-- Either coding on DnB or Classical
+- Hi, I’m @Zeos-ctrl a first year at cardiff met university
+- Learning rust and c++
+- Either coding listening DnB or Classical
 
 <!---
 Zeos-ctrl/Zeos-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
