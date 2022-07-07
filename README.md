@@ -1,6 +1,4 @@
-- Hi, I’m @Zeos-ctrl a first year at cardiff met university
-- Learning rust and c++
-- Either coding listening DnB or Classical
+Hi, I’m @Zeos-ctrl a second year at cardiff met university studying computer security, ive recently been learning rust and javascript, ive had prior experience in python and c++.
 
 <!---
 Zeos-ctrl/Zeos-ctrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
