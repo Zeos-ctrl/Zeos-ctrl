@@ -1,7 +1,7 @@
 # Part time vibe coder
 
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connor-bryan-92144922b) 
 
 ## I'm multilingual
